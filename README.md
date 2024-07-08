@@ -1,4 +1,4 @@
-# gyansys.QA
+
 Maven project generated with com.a9ski:quick-start archetype
 
 
